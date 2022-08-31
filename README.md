@@ -1,2 +1,2 @@
-# Formula1DataExploration
-Jupyter project
+# Formula1DataExploration Jupyter Project
+
