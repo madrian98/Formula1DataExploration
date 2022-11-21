@@ -8,7 +8,7 @@
 Processing large datasets of Formula 1 historic data with usage of Python and its libraries(e.g., Pandas, NumPy, Folium , Plotly).<br />
 Including visualizations of many records&remarkable moments of this international racing sport.<br />
 
-The dataset consists of all information on the Formula 1 such as races, drivers, constructors, qualifying, circuits, lap times, etc. from 1950 till the August 2022(after Hungarian 2022 GP and before Belgian 2022 GP).<br />
+The dataset consists of all information on the Formula 1 such as races, drivers, constructors, qualifying, circuits, lap times, etc. from 1950 till the end of 2022 season.<br />
 
 The data was downloaded from http://ergast.com/mrd/.<br />
 
