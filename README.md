@@ -19,6 +19,15 @@ Formula One (a.k.a. F1) is an international auto racing sport. It is the highest
 # Interactive notebook version
 Try it out with binder:<br /> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/madrian98/Formula1DataExploration/main?labpath=Formula%201%20Data%20Exploration.ipynb)
 
+# Technology stack
+Following Python libraries have been used in project development:<br>
+* Pandas
+* Numpy
+* Plotly
+* Seaborn
+* Matplotlib
+* Folium
+
 # Example
 <p align="center">
   <img src="https://github.com/madrian98/Formula1DataExploration/blob/main/README_Images/Driver%20records.png" />
