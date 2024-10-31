@@ -25,6 +25,7 @@ Try it out with binder:<br /> [![Binder](https://mybinder.org/badge_logo.svg)](h
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23ED8B00.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-05122A?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Folium](https://img.shields.io/badge/Folium-%233F4F75.svg?style=for-the-badge&logo=Folium&logoColor=green)
 
 
